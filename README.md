@@ -70,3 +70,6 @@ hig_correlated_cols(df, plot=True, corr_th=0.85)
 
 ## Yazar
 Mehmet Can Duru
+
+## Kaynak
+Miuul Data Science Eğitim içeriğinden yararlanarak bu repoyu oluşturdum.
